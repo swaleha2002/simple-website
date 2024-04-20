@@ -31,3 +31,9 @@ To view the website, simply open the `index.html` file in a web browser. You can
 
 - **Product Data API**: The product data used in this project is fetched from an external API.
 - **Inter Font**: The Inter font from Google Fonts is used for typography.
+
+
+  ## website link:
+  I have hosted the this simple project using github pages,
+  do check my website.
+  here is the link : https://swaleha2002.github.io/simple-website/
